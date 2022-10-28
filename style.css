@@ -4,7 +4,7 @@ body {
       width:100%;
 }
 
-.princpal{
+.principal{
     background:#CCCCCC;
     padding:30px; 
 }
@@ -20,18 +20,4 @@ p{
    text-aling:center;
 }
 
-#missao{
-      font-size:20px
-}
-em strong{
-  color:#FFFFFF;
-  padding:20px;
-}
 
-.beneficios{
-       background:#FFFFFF;
-       padding:20px;
-}
-
-ul {
-  display:inline-block;
